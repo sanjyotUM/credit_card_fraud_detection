@@ -1,0 +1,5 @@
+Steps:
+
+1. Execute conda create --name mor --file env.txt
+2. Execute pip install matplotlib
+3. Execute pip install seaborn
